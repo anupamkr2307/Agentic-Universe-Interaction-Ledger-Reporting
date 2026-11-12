@@ -10,3 +10,4 @@ reports/
 reports_rerun/
 final_state.csv
 .pytest_cache/
+.vercel
