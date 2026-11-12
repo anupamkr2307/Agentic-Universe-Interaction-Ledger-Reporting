@@ -4,6 +4,7 @@
 - **Name:** Anupam Kumar
 - **Assignment chosen:** A (Data: Interaction Ledger & Reporting Pipeline)
 - **Time spent (honest estimate):** ~5h
+- **Live Deployment:** [https://sde-assignment-junior-2026.vercel.app](https://sde-assignment-junior-2026.vercel.app)
 
 ## How to run
 ```bash

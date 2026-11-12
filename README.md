@@ -1,5 +1,7 @@
 # Agentic Universe: Junior SDE Take-Home (Data & Workflow)
 
+> 🚀 **Live Dashboard Link:** [https://sde-assignment-junior-2026.vercel.app](https://sde-assignment-junior-2026.vercel.app)
+
 Thanks for your interest in Agentic Universe. We build AI voice agents for insurers, lenders and
 consumer brands across India and APAC. Our platform has three layers:
 
